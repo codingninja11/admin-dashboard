@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import "./Navbar.css";
 import avatar from "../../assets/avatar.svg";
 
